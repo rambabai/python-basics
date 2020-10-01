@@ -1,0 +1,4 @@
+For loop
+For i in range(10):
+   Print(i)
+#prints 10 numbers
