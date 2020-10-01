@@ -1,4 +1,7 @@
 For loop
 For i in range(10):
-   Print(i)
-#prints 10 numbers
+   if i%2==0:
+     print("even")
+   else:
+     print("off")
+#prints even or odd numbers
