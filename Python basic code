@@ -2,6 +2,8 @@ For loop
 For i in range(10):
    if i%2==0:
      print("even")
+   elif i%2!=0:
+   print("odd")
    else:
-     print("off")
+     print("others")
 #prints even or odd numbers
